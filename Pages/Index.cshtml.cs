@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SmartSoftware.DeviceAgent.Pages
+namespace SmartSoftware.SmartAgent.Pages
 {
     public class IndexModel : PageModel
     {

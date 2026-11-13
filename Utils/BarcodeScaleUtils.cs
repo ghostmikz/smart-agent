@@ -1,12 +1,12 @@
 ﻿using FluentFTP;
 using FluentFTP.Helpers;
-using SmartSoftware.DeviceAgent.Interfaces;
+using SmartSoftware.SmartAgent.Interfaces;
 using System.Net;
 using System.Net.Sockets;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace SmartSoftware.DeviceAgent.Utils
+namespace SmartSoftware.SmartAgent.Utils
 {
     public static class BarcodeScaleUtils
     {

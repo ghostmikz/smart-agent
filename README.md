@@ -1,4 +1,4 @@
-﻿# SmartSoftware Device Agent
+﻿# SmartSoftware Smart Agent
 
 Small Windows service. It runs on a store PC and lets the web apps talk to local devices over HTTP.
 
@@ -19,7 +19,7 @@ Small Windows service. It runs on a store PC and lets the web apps talk to local
 ## Build
 
 ```
-dotnet build SmartSoftware.DeviceAgent.csproj
+dotnet build SmartSoftware.SmartAgent.csproj
 ```
 
 ## Notes

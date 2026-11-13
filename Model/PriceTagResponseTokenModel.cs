@@ -1,7 +1,7 @@
 using System.Runtime.Serialization;
 using System.Text.Json.Serialization;
 
-namespace SmartSoftware.DeviceAgent.Model
+namespace SmartSoftware.SmartAgent.Model
 {
     [DataContract]
     public class PriceTagResponseTokenModel

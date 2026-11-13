@@ -1,10 +1,10 @@
 using AxCASSCALELib;
-using SmartSoftware.DeviceAgent.Interfaces;
+using SmartSoftware.SmartAgent.Interfaces;
 using System.Net.Sockets;
 using System.Text;
 using System.Windows.Forms;
 
-namespace SmartSoftware.DeviceAgent.Utils
+namespace SmartSoftware.SmartAgent.Utils
 {
     internal static class CCommon
     {

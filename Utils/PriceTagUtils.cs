@@ -1,8 +1,8 @@
-using SmartSoftware.DeviceAgent.Model;
+using SmartSoftware.SmartAgent.Model;
 using System.Text;
 using System.Text.Json;
 
-namespace SmartSoftware.DeviceAgent.Utils
+namespace SmartSoftware.SmartAgent.Utils
 {
     public static class PriceTagUtils
     {

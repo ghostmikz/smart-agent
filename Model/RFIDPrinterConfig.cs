@@ -1,4 +1,4 @@
-namespace SmartSoftware.DeviceAgent.Model
+namespace SmartSoftware.SmartAgent.Model
 {
     public class RFIDPrinterConfig
     {

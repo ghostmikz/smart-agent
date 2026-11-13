@@ -1,12 +1,12 @@
 using RestSharp;
-using SmartSoftware.DeviceAgent.Model;
+using SmartSoftware.SmartAgent.Model;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Net.WebSockets;
 using System.Text;
 using System.Text.Json;
 
-namespace SmartSoftware.DeviceAgent.Utils
+namespace SmartSoftware.SmartAgent.Utils
 {
     public static class RFIDPrinterUtils
     {

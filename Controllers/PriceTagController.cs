@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using SmartSoftware.DeviceAgent.Model;
-using SmartSoftware.DeviceAgent.Utils;
+using SmartSoftware.SmartAgent.Model;
+using SmartSoftware.SmartAgent.Utils;
 
-namespace SmartSoftware.DeviceAgent.Controllers
+namespace SmartSoftware.SmartAgent.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

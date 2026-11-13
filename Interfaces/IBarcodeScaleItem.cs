@@ -1,4 +1,4 @@
-namespace SmartSoftware.DeviceAgent.Interfaces
+namespace SmartSoftware.SmartAgent.Interfaces
 {
     public interface IBarcodeScaleItem
     {

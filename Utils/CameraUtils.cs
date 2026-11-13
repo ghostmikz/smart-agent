@@ -1,9 +1,9 @@
-using SmartSoftware.DeviceAgent.Model;
+using SmartSoftware.SmartAgent.Model;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 
-namespace SmartSoftware.DeviceAgent.Utils
+namespace SmartSoftware.SmartAgent.Utils
 {
     public static class CameraUtils
     {

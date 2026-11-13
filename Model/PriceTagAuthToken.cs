@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace SmartSoftware.DeviceAgent.Model
+namespace SmartSoftware.SmartAgent.Model
 {
     public class PriceTagAuthToken
     {

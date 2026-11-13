@@ -1,7 +1,7 @@
-using SmartSoftware.DeviceAgent.Interfaces;
+using SmartSoftware.SmartAgent.Interfaces;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SmartSoftware.DeviceAgent.Model
+namespace SmartSoftware.SmartAgent.Model
 {
     public class BarcodeScaleItemModel : IBarcodeScaleItem
     {
